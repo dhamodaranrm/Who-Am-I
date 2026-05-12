@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhamodaranrm@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhamodaranrm)
 
-**Product Owner | ERP & Data Transformation Leader | Enterprise Solutions Architect**
+**Product Manager | ERP & Data Transformation Leader | Enterprise Solutions Architect**
 
 *13+ Years of Excellence in Database Administration, Product Leadership & Digital Transformation*
 
