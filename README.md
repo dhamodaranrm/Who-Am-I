@@ -1,4 +1,9 @@
-# 👋 Dhamodar Anrm - IT Lead & Product Manager
+ <div align="center"> 
+   
+   # 👋 Dhamodaran RM - IT Lead & Product Manager
+   
+</div>
+
 
 <div align="center">
 
@@ -253,6 +258,7 @@ As a **Product Owner**, I excel at translating business needs into technical sol
 | Analytical thinking | Team leadership | Executive presence |
 | Attention to detail | Consensus building | Technical articulation |
 
+
 | 🎓 Development | ⚡ Execution | 🎨 Adaptability |
 |:---:|:---:|:---:|
 | Mentoring | Multitasking | Flexibility |
@@ -321,7 +327,7 @@ Who-Am-I/
 
 **Seeking:** Senior Product Manager • Principal Product Manager • Chief Product Officer • VP Digital Transformation • Associate/Fractional CTO
 
-**Location:** Chennai, India  
+**Location:** UAE  
 **Willing to Relocate:** Yes  
 **Open to:** Full-time • Contract • Advisory roles
 
